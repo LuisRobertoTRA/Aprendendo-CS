@@ -1,0 +1,11 @@
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\bin\Debug\testeComFramework.exe.config
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\bin\Debug\testeComFramework.exe
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\bin\Debug\testeComFramework.pdb
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.csproj.AssemblyReference.cache
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.csproj.CoreCompileInputs.cache
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.csproj.CopyComplete
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.exe
+C:\Users\Luis Roberto\Documents\Estudo\teste4\testeComFramework\obj\Debug\testeComFramework.pdb

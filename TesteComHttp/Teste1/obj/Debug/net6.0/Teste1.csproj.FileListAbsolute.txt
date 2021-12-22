@@ -1,0 +1,15 @@
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\Teste1.exe
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\Teste1.deps.json
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\Teste1.runtimeconfig.json
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\Teste1.dll
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\ref\Teste1.dll
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\bin\Debug\net6.0\Teste1.pdb
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.csproj.AssemblyReference.cache
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.AssemblyInfoInputs.cache
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.AssemblyInfo.cs
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.dll
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\ref\Teste1.dll
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.pdb
+C:\Users\Luis Roberto\Documents\Estudo\TesteComHttp\Teste1\obj\Debug\net6.0\Teste1.genruntimeconfig.cache
